@@ -1,4 +1,4 @@
-# My Quick Note Chrome Extension
+# 'Quick Note' Chrome Extension
 
 [![Watch the Demo]
 ![Screenshot 2025-07-05 153006](https://github.com/user-attachments/assets/655f38e9-c389-4937-8bed-d55c3abd922e)
