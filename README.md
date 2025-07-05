@@ -2,7 +2,8 @@
 
 Want to create your own Google Chrome extension using React JS? In this hands-on tutorial, you’ll learn how to build a clean and minimal Quick Note browser extension from scratch. Whether you're a beginner or looking to expand your React skills into browser extensions, this video has you covered!
 
-[![Watch the Demo](https://github.com/user-attachments/assets/a77fbeac-46dd-4635-8b31-3ad8d2395833)
+[![See the Demo](![image](https://github.com/user-attachments/assets/2f37d22e-dfcd-428e-91ce-58c668124112)) (![Screenshot 2025-07-05 152500](https://github.com/user-attachments/assets/82fce479-7ce2-4972-941e-e246e4eefebc))
+
 
 🔧 **What You’ll Learn:**
 - How to set up a Chrome extension project with React  
