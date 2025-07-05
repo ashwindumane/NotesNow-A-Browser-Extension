@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Notes Now",
+  "version": "1.0.0",
+  "description": "A Chrome Extension Build With React And tailwind Css for Quick Notes.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "./icon-16.png",
+      "48": "./icon-48.png",
+      "128": "./icon-128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "16": "images/icon-16.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  }
+}
