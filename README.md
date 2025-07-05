@@ -1,6 +1,7 @@
 # 'Quick Note' Chrome Extension
 
-[![Watch the Demo]
+# Demo
+
 ![Screenshot 2025-07-05 153006](https://github.com/user-attachments/assets/655f38e9-c389-4937-8bed-d55c3abd922e)
 
 ![Screenshot 2025-07-05 152531](https://github.com/user-attachments/assets/e7daea81-3947-47a6-bada-6d5cdf3b93d9)
