@@ -1,12 +1,14 @@
-# React + Vite
+# My Quick Note Chrome Extension
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Want to create your own Google Chrome extension using React JS? In this hands-on tutorial, you’ll learn how to build a clean and minimal Quick Note browser extension from scratch. Whether you're a beginner or looking to expand your React skills into browser extensions, this video has you covered!
 
-Currently, two official plugins are available:
+[![Watch the Demo](https://github.com/user-attachments/assets/a77fbeac-46dd-4635-8b31-3ad8d2395833)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔧 **What You’ll Learn:**
+- How to set up a Chrome extension project with React  
+- Creating a popup UI using React components  
+- Styling your extension with a minimal design  
+- Tips to structure your project for future scalability
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
